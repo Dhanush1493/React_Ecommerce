@@ -3,7 +3,7 @@
 link : https://reactecommerce-eight.vercel.app/
 ## 📙 Description
 
-Flikart is a project developed for online shopping inspired from ShopEase. It incorporates various technologies and libraries to achieve Html5, css3, React, typescript, redux, tailwindcss
+An online shopping platform built with React, TypeScript, Redux, TailwindCSS, HTML5, and CSS3. It delivers a responsive and modern user experience.
 
 ## 🛠️ Installation
 
@@ -11,7 +11,7 @@ Before getting started, ensure you have Node.js and npm installed on your machin
 
 ```bash
 # Clone the repository
-https://github.com/Dhanush1493/React.git
+https://github.com/Dhanush1493/React_Ecommerce.git
 
 # Navigate to the project directory
 cd React
@@ -86,7 +86,6 @@ flikart/
 ├── tsconfig.json
 └── ...
 ```
-![image](https://github.com/muhammadshakkeerp/ShopEase_clone/assets/121001685/0ae96fbf-dc94-4691-87f0-36e04bcbf93d)
 
 ## Optimized File
 ``` 
